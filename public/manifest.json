@@ -1,0 +1,25 @@
+{
+  "short_name": "Amplify UI Dashboard",
+  "name": "Amplify UI Dashboard Sample",
+  "icons": [
+    {
+      "src": "one_erp_logo.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "one_erp_logo.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "one_erp_logo.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
